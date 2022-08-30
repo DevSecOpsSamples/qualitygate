@@ -1,4 +1,4 @@
-# SonarQube Qulity Gate
+# SonarQube Quality Gate
 
 ### Container sample project repositories
 
